@@ -12,7 +12,7 @@ A concise and descriptive tagline for your project.
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/1vnrmvnew-project.git
 cd your-repo
 npm install
 ```
